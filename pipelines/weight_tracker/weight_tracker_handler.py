@@ -70,3 +70,7 @@ class WeightTrackerHandler:
 
         # return json
         return pipeline_json
+
+if __name__ == "__main__":
+    pipeline_json = WeightTrackerHandler().main(70, 1, "Weight")
+    logger.info(pipeline_json)
