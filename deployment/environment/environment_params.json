@@ -4,6 +4,6 @@
         "mysql_port": 3306,
         "mysql_username": "dev",
         "mysql_password": "",
-        "db_name": "super-app-dev-db"
+        "db_name": "super_app_dev_db"
     }
 }
