@@ -1,6 +1,6 @@
 # Input Pipeline Name
 BRANCH_NAME = $1
-cd /home
+cd /home/ec2-user
 rm -rf deployment
 mkdir deployment
 cd deployment
